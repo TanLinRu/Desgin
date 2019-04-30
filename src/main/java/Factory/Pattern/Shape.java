@@ -7,5 +7,5 @@
 package Factory.Pattern;
 
 public interface Shape {
-
+    void draw();
 }
